@@ -132,19 +132,6 @@ defined( 'ABSPATH' ) or die( 'No script kiddies please!' );?>
               }?>
 
               <div class="form-group">
-
-        <?php
-				global $wpdb, $posts;
-$prefix = $wpdb->prefix;
-$query = $wpdb->get_results("SELECT * FROM {$prefix}code_country");
-if($query){
-    echo '<select><option value="select">Select</option>';
-    foreach ($query as $value) {
-      echo '<option value="'.$value->ID.'">'.$value->ID.'</option>';
-    }
-    echo "</select>";
-}
-        ?>
                 <label for="f_name">Nombre <span class="asterisk">*</span></label>
                 <input type="text" id="f_name" name="f_name" class="form-control" value="<?php echo $f_name;?>" placeholder="Introduce tu nombre" required aria-required="true">
 
@@ -159,6 +146,11 @@ if($query){
                   <?php }
                 }?>
               </div>
+
+							<div class="row">
+  <div class="col-xs-6">.col-xs-6</div>
+  <div class="col-xs-6">.col-xs-6</div>
+</div>
 
               <div class="form-group">
                 <label for="f_email">E-mail <span class="asterisk">*</span></label>
