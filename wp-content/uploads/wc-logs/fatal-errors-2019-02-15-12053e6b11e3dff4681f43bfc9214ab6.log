@@ -1,0 +1,24 @@
+2019-02-15T01:01:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/tele-shopping/wp-includes/class-wp-image-editor-gd.php on line 183
+
+2019-02-15T01:09:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/tele-shopping/wp-includes/class-wp-image-editor-gd.php on line 183
+
+2019-02-15T01:13:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/tele-shopping/wp-includes/class-wp-image-editor-gd.php on line 183
+
+2019-02-15T01:15:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/tele-shopping/wp-includes/class-wp-image-editor-gd.php on line 183
+
+2019-02-15T02:06:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/tele-shopping/wp-includes/class-wp-image-editor-gd.php on line 183
+
+2019-02-15T17:08:39+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /var/www/html/tele-shopping/wp-content/themes/zerif-lite/footer.php on line 146
+
+2019-02-15T17:24:17+00:00 CRITICAL syntax error, unexpected 'footer' (T_STRING), expecting ',' or ';' in /var/www/html/tele-shopping/wp-content/themes/zerif-lite/footer.php on line 173
+
+2019-02-15T17:24:50+00:00 CRITICAL syntax error, unexpected 'footer' (T_STRING), expecting ',' or ';' in /var/www/html/tele-shopping/wp-content/themes/zerif-lite/footer.php on line 173
+
+2019-02-15T17:25:23+00:00 CRITICAL syntax error, unexpected '"> <a href='#'>Términos y con' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /var/www/html/tele-shopping/wp-content/themes/zerif-lite/footer.php on line 173
+
+2019-02-15T20:08:44+00:00 CRITICAL syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /var/www/html/tele-shopping/wp-content/themes/zerif-lite/sections/testimonials.php on line 11
+
+2019-02-15T21:12:06+00:00 CRITICAL syntax error, unexpected ';' in /var/www/html/tele-shopping/wp-content/themes/zerif-lite/sections/about_us.php on line 12
+
+2019-02-15T21:40:19+00:00 CRITICAL syntax error, unexpected 'row' (T_STRING), expecting ',' or ';' in /var/www/html/tele-shopping/wp-content/themes/zerif-lite/sections/our_team.php on line 23
+

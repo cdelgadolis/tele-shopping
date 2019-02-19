@@ -1,0 +1,24 @@
+2019-02-19T15:17:45+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in /var/www/html/tele-shopping/wp-content/themes/zerif-lite/sections/our_focus.php:138
+Stack trace:
+#0 /var/www/html/tele-shopping/wp-includes/template.php(690): require()
+#1 /var/www/html/tele-shopping/wp-includes/template.php(647): load_template('/var/www/html/t...', false)
+#2 /var/www/html/tele-shopping/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#3 /var/www/html/tele-shopping/wp-content/themes/zerif-lite/content-frontpage.php(30): get_template_part('sections/our_fo...')
+#4 /var/www/html/tele-shopping/wp-includes/template.php(690): require('/var/www/html/t...')
+#5 /var/www/html/tele-shopping/wp-includes/template.php(647): load_template('/var/www/html/t...', false)
+#6 /var/www/html/tele-shopping/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#7 /var/www/html/tele-shopping/wp-content/themes/zerif-lite/front-page.php(21): get_template_part('content', 'frontpage')
+#8 /var/www/html/tele-shopping/ in /var/www/html/tele-shopping/wp-content/themes/zerif-lite/sections/our_focus.php on line 138
+
+2019-02-19T15:18:26+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in /var/www/html/tele-shopping/wp-content/themes/zerif-lite/sections/our_focus.php:138
+Stack trace:
+#0 /var/www/html/tele-shopping/wp-includes/template.php(690): require()
+#1 /var/www/html/tele-shopping/wp-includes/template.php(647): load_template('/var/www/html/t...', false)
+#2 /var/www/html/tele-shopping/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#3 /var/www/html/tele-shopping/wp-content/themes/zerif-lite/content-frontpage.php(30): get_template_part('sections/our_fo...')
+#4 /var/www/html/tele-shopping/wp-includes/template.php(690): require('/var/www/html/t...')
+#5 /var/www/html/tele-shopping/wp-includes/template.php(647): load_template('/var/www/html/t...', false)
+#6 /var/www/html/tele-shopping/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#7 /var/www/html/tele-shopping/wp-content/themes/zerif-lite/front-page.php(21): get_template_part('content', 'frontpage')
+#8 /var/www/html/tele-shopping/ in /var/www/html/tele-shopping/wp-content/themes/zerif-lite/sections/our_focus.php on line 138
+
